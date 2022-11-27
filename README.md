@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a... geek? :) Well.. I have a [customized console](https://github.com/ipatalas/ConEmu) so I think that counts :)
+I'm a... geek? :) Well.. I have a [customized console](https://github.com/ipatalas/clink) so I think that counts :)
 
 - 🔭 I’m currently working on my home automation (Home Assistant as a heart of the system) - to be published after I finish "refactoring".
 - ⚡ Fun fact: I like regular expressions 😉 but use them in my code very rarely - I know the pain and confusion it causes for most of the people. Still it's a great tool even for ad hoc text processing.
