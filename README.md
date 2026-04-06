@@ -8,5 +8,5 @@ I'm a... geek? :) Well.. I have a [customized console](https://github.com/ipatal
 - 💡 I am a big fan and a licensed user of LINQPad - really great tool to put your ideas to a test. I no longer have ConsoleApplication45 and others on my disk :) Did I mention you can Benchmark.Net in it without creating a project?
 - 🔄 I like small things that improve my day to day productivity - that's how [AppSwitcher](https://github.com/ipatalas/app-switcher) was born.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ipatalas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipatalas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
